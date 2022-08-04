@@ -7,4 +7,4 @@ setup(name='mypackage',
       url='https://github.com/my_name/my_package',
       packages=['mypackage'],
       python_requieres='3.9',
-      install_requires=['some_package==1.0.0'])
+      install_requires=[])
